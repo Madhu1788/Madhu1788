@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="./madhu.png.png" alt="Madhu - Aspiring AI/ML Engineer" width="100%">
+</p>
+
 ---
+
 # Hi, I'm Madhu 👋
 
 ### 🚀 CSE Student | Aspiring AI/ML Engineer | Builder
